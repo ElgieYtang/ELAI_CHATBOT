@@ -1,0 +1,13 @@
+This website is an academic final project developed by a 4th year
+Bachelor of Science in Information Technology (BSIT) student from
+the University of Cebu – Main Campus.
+
+The project focuses on designing and deploying an AI-powered chatbot
+integrated into a website using Retrieval-Augmented Generation (RAG).
+
+The chatbot answers questions related only to the website, project
+objectives, and technologies used.
+
+Technologies used include HTML, CSS, JavaScript for frontend development,
+Flowise for chatbot orchestration, Ollama for local language model
+execution, and Cloudflare Tunnel for public deployment.
